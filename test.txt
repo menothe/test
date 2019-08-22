@@ -8,3 +8,8 @@ figured out that to show commits from pervious release versions you have to have
 
 if a changelog file exists you have to override it with the override flag with each generation
 asdfasdfasfgasfgasdfacasfgwdfg
+
+
+==============DAY 3=====================
+
+cvasvadfgdsv
