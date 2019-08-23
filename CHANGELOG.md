@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.5 (22/08/2019)
+- [random commit no. 7](https://github.com/menothe/test/commit/839c6d3cad360f0f9558562fc27afb00cebd0eef) - undefined
+
+---
+
 ## v1.4 (22/08/2019)
 - [random commit no. 5](https://github.com/menothe/test/commit/b8f80b0d6a03286f8dd754c96dceea4bbd97154d) - undefined
 
