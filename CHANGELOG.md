@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.6 (23/08/2019)
+*No changelog for this release.*
+
+---
+
 ## v1.5 (22/08/2019)
 - [random commit no. 7](https://github.com/menothe/test/commit/839c6d3cad360f0f9558562fc27afb00cebd0eef) - undefined
 
